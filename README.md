@@ -1,5 +1,7 @@
 # Air_Passengers_Answer
 
+![America's airports](https://github.com/LouisGrunenwald/Air_Passengers_Answer/blob/master/gettyimages-162852416.jpg)
+
 Ce repo est le fruit d'un projet de Machine Learning, dans le cadre du Master 2 MoSEF.
 La problématique et les données initiales ont été élaborées par M Roman Yurchak.
 Enfin ce projet a été réalisé en collaboration avec Paul Leydier :). Un data scientist enthousiaste ! 
